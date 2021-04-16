@@ -22,5 +22,6 @@ string Teclas[N_teclas];
 		posicao1=(int)(Teclas[j][1])-50;
 		posicao2=(int)(Teclas[j][3])-49;	
 		cout << matriz[posicao1][posicao2];
-	  }
+	 
+     }
 }
